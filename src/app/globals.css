@@ -25,3 +25,16 @@ body {
     text-wrap: balance;
   }
 }
+
+.custom-dash {
+  border-image: none;
+  border-width: 5px;
+  border-color: #1E77CC;
+  border-style: dashed;
+  border-radius: 22px;
+  border-image: initial;
+  border-image-outset: 0;
+  border-image-width: 1;
+  border-image-slice: 1;
+}
+
